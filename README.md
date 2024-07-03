@@ -170,6 +170,8 @@ Flexibly moving workloads across public clouds based on cost or performance cons
 </details>
 
 <details>
+<summary> Cloud Within a Cloud (Virtual Private Cloud) </summary>
+<br
 
 A Virtual Private Cloud (VPC), also known as Cloud Within a Cloud, involves hosting an organization's cloud services within a public cloud provider's infrastructure but in an isolated segment. This segment ensures that the organization's resources are private and not shared with other companies, while the public cloud environment provides scalability and flexibility.
 
@@ -196,7 +198,8 @@ Multi-cloud refers to various configurations where organizations use services fr
 </details>
 
 <details>
-
+<summary> Cloud Delivery Methods </summary>
+<br
 Cloud Delivery Methods
 
 **Cloud Service Models Overview**:
@@ -235,7 +238,8 @@ Each cloud service model offers varying levels of control and responsibility, ca
 </details>
 
 <details>
-
+<summary> The Computing Resources Life Cycle </summary>
+<br
 **The Computing Resources Life Cycle**
 
 Cloud computing revolutionizes IT infrastructure management by enabling users to lease computing resources on-demand, paying only for what they use. This contrasts sharply with traditional data centers where hardware must be purchased upfront, regardless of actual usage.
