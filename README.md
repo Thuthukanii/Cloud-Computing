@@ -3,7 +3,8 @@
 <br>
 
 <details>
-**Understanding Cloud Concepts**
+<summary> Understanding Cloud Concepts </summary>
+<br>**Understanding Cloud Concepts**
 
 **What is cloud?**
 
@@ -32,6 +33,8 @@ Cloud service providers (CSPs) meter resource utilization, enabling efficient an
 </details>
 
 <details>
+<summary> Cloud Computing Ecosystems </summary>
+<br>
 **Cloud Computing Ecosystems**
 
 **Consumers of Services**
@@ -90,7 +93,8 @@ These companies specialize in designing and implementing cloud technologies, oft
 </details>
 
 <details>
-
+<summary> Understanding Cloud Deployment Models </summary>
+<br>
 **Understanding Cloud Deployment Models**
 
 **Cloud Components and Clients**
@@ -139,7 +143,8 @@ This approach addresses security concerns and regulatory requirements that may r
 </details>
 
 <details>
-
+<summary> Hybrid Cloud </summary>
+<br
 **Hybrid Cloud**
 
 A hybrid cloud environment combines private cloud infrastructure with public cloud services, integrating them to address business needs effectively. The goal is to create a unified, automated, and well-managed computing environment where end-users seamlessly access technology services without distinguishing between on-premises and cloud resources.
