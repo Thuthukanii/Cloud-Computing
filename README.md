@@ -2,6 +2,7 @@
 <summary> Module 1 : Cloud Computing Fundamentals </summary>
 <br>
 <details>
+<summary> Understanding Cloud Concepts</summary>
 <details>
 <summary> Understanding Cloud Concepts </summary>
 <br>
