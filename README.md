@@ -3,6 +3,7 @@
 <br>
 <details>
 <summary> Understanding Cloud Concepts</summary>
+<br>
 
 <details>
 <summary> The Changing Role of the Data Center </summary>
@@ -328,9 +329,12 @@ In summary, the role of the data center is evolving with hybrid cloud strategies
 
 <details>
 <summary> Embracing the Business Imperative</summary>
+<br>
 <details>
 
-Understanding IT Transformation
+<summary> Understanding IT Transformation </summary>
+<br>
+**Understanding IT Transformation**
 
 With the rise of commercial cloud computing vendors and services, the role of IT is evolving significantly. Traditionally, IT had complete control over computing resources, but now it is responsible for providing oversight, management, and evaluation of various options. IT must integrate processes and data across different areas and ensure security and compliance.
 
@@ -339,6 +343,20 @@ IT now oversees both cloud and on-premises services, necessitating transition pl
 Historically, IT organizations spent a significant amount of time maintaining legacy applications in data centers, delaying support for innovative initiatives. As a result, business leaders grew frustrated with the slow pace of IT. Some companies have invested in cloud technologies and application modernization to transform aging applications, leading successful organizations towards a path of transformation driven by cloud services.
   
 </details>
+
+<details>
+
+<summary> Escaping the IT Legacy Trap </summary>
+<br>
+
+**Escaping the IT Legacy Trap**
+
+Legacy applications, crucial for managing core business processes like payment services and customer management, are often challenging to update due to their architectural foundation. These applications are typically monolithic with dependencies on other applications, making them difficult to modernize.
+
+Simply moving these legacy applications to a cloud platform is tempting but is often expensive and unproductive. Legacy applications from sectors such as banking or retail may not be compatible with modern architectures. Moving them to the cloud requires relocating all dependent applications and substantial computing and storage resources, offering no strategic advantage due to their outdated code.
+
+The solution is to transform and modernize these applications. This involves removing dependencies and redesigning the application as a set of modular services. Frequently used services should be written once and reused when possible. Modernizing legacy applications is essential to harness the innovation benefits of the cloud.
+
 </details>
 
 </details>
