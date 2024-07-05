@@ -408,6 +408,7 @@ Modernizing IT is essential to stay competitive. By implementing a well-defined 
 Management teams must ensure cloud services meet security, governance, and stability guidelines, often supporting multiple clouds while limiting vendor numbers for manageability. A solid cloud strategy prepares the company to innovate and protect customer and partner relationships, creating a competitive advantage.
 
 </details>
+
 <details>
 <summary> Optimizing Your Existing Business </summary>
 <br>
@@ -421,6 +422,7 @@ For instance, a century-old furniture business faces competition from new cloud-
 The store can leverage its community ties and best practices, integrating cloud services to expand offerings, collect data on customer preferences, and innovate with custom-built furniture from local artisans. By blending traditional strengths with cloud capabilities, the furniture store can remain competitive and responsive to customer needs.
 
 </details>
+
 <details>
 <summary> Modern Development and Deployment Strategies </summary>
 <br>
@@ -435,7 +437,6 @@ For example, with DevOps, a custom suit tailoring SaaS application can quickly a
 
 </details>
 
-</details>
 <details>
 <summary> Revisiting Your Business Model </summary>
 <br>
@@ -460,4 +461,5 @@ Business models consist of various adjustable characteristics that define how a 
 
 Significant changes to a business model are challenging but worthwhile for reinventing and finding new opportunities. The cloud enables experimentation with new approaches by setting up smaller, controlled tests or even subsidiary divisions. Successful experiments can be scaled up, while unsuccessful ones can be easily terminated, allowing continuous innovation and adaptation to meet business needs and customer demands.
 
+</details>
 </details>
