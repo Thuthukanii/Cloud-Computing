@@ -3,8 +3,9 @@
 <br>
 <details>
 <summary> Understanding Cloud Concepts</summary>
+
 <details>
-<summary> Understanding Cloud Concepts </summary>
+<summary> The Changing Role of the Data Center </summary>
 <br>
   
 **What is cloud?**
