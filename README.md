@@ -1,7 +1,7 @@
 <details>
-<summary> Charpter 1 : Cloud Computing Fundamentals </summary>
+<summary> Module 1 : Cloud Computing Fundamentals </summary>
 <br>
-
+<details>
 <details>
 <summary> Understanding Cloud Concepts </summary>
 <br>
@@ -322,5 +322,5 @@ This approach minimizes risks and establishes a hybrid cloud setup, balancing mo
 In summary, the role of the data center is evolving with hybrid cloud strategies, leveraging both private and public cloud benefits while addressing security, compliance, and legacy application needs.
 
 </details>
-
+</details>
 </details>
