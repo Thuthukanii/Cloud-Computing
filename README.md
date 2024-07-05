@@ -325,4 +325,20 @@ In summary, the role of the data center is evolving with hybrid cloud strategies
 
 </details>
 </details>
+
+<details>
+<summary> Embracing the Business Imperative</summary>
+<details>
+
+Understanding IT Transformation
+
+With the rise of commercial cloud computing vendors and services, the role of IT is evolving significantly. Traditionally, IT had complete control over computing resources, but now it is responsible for providing oversight, management, and evaluation of various options. IT must integrate processes and data across different areas and ensure security and compliance.
+
+IT now oversees both cloud and on-premises services, necessitating transition plans for outdated applications. IT operations must ensure consistent and predictable performance in hybrid and multicloud environments.
+
+Historically, IT organizations spent a significant amount of time maintaining legacy applications in data centers, delaying support for innovative initiatives. As a result, business leaders grew frustrated with the slow pace of IT. Some companies have invested in cloud technologies and application modernization to transform aging applications, leading successful organizations towards a path of transformation driven by cloud services.
+  
+</details>
+</details>
+
 </details>
