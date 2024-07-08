@@ -563,9 +563,13 @@ Architecting for Change: The cloud environment is designed to support changes in
 Considerations for a Dynamic Life Cycle:
 
 **Services-Based Model**: Break down traditional silos of applications, processes, and services to create a cohesive environment.
+
 **Flexibility**: Minimize dependencies to facilitate the addition of new cloud services and advancements.
+
 **Performance**: Ensure the architecture meets performance requirements for excellent customer experiences.
+
 **Governance**: Maintain a predictable, safe, and well-governed environment to support long-term business operations.
+
 By focusing on these principles, organizations can better manage the dynamic life cycle of cloud computing, ensuring agility and responsiveness to changing business needs.
 
 </details> 
