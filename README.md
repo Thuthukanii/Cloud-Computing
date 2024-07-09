@@ -576,7 +576,7 @@ By focusing on these principles, organizations can better manage the dynamic lif
 </details>
 
 <details>
-<summary> Managing a Hybrid and Multicloud Environment </summary>
+<summary> Managing SaaS Applications </summary>
 <br>
 
 **Managing SaaS Applications**
@@ -694,58 +694,6 @@ The company must make it easier for employees to use the company’s catalogue r
 Proactively understanding and meeting development needs ensures the catalogue remains relevant and useful.
 Conclusion:
 Managing external cloud resources effectively requires visibility, control, and a proactive approach to meet development needs. Creating a comprehensive catalogue of approved resources ensures consistent, efficient, and secure use of cloud services.
-
-</details>
-
-<details>
-<summary> Service Level Agreements (SLAs) </summary>
-<br>
-
-Service Level Agreements (SLAs)
-Overview:
-Service Level Agreements (SLAs) are contractual agreements between cloud service providers and customers, detailing the expected performance and responsibilities. SLAs cover aspects such as availability, accuracy, response time, throughput, and security, which are essential for meeting performance requirements.
-
-Key Elements of SLAs:
-
-Scope and Responsibilities:
-
-SLAs specify what the provider delivers and outline customer responsibilities.
-Providers accept responsibility in limited situations, such as service misconfiguration or direct security breaches.
-Performance Metrics:
-
-SLAs include performance claims like uptime percentages.
-Higher uptime percentages (more nines) translate to more expensive services.
-Table of Downtime Based on System Availability:
-90% (one nine): 36.53 days/year
-99% (two nines): 3.65 days/year
-99.9% (three nines): 8.77 hours/year
-99.99% (four nines): 52.6 minutes/year
-99.999% (five nines): 5.26 minutes/year
-99.9999% (six nines): 31.56 seconds/year
-Handling Ambiguities:
-
-Grey areas like natural disasters or third-party outages may not be covered.
-Providers may not be liable for lost business, often offering only service refunds during outages.
-Verification and Enforcement:
-
-Performance claims are verified by consumers and third-party auditors.
-Failure to meet SLAs can justify contract cancellation.
-Addressing Poor Cloud and Computing Behaviors:
-
-User Behaviors:
-
-Risky behaviors, like weak passwords, can compromise security.
-IT organizations must ensure robust security practices and employee education.
-Device and Access Management:
-
-Governance strategies, including role-based access control (RBAC), manage which systems employees can access.
-Companies must control data access and modification based on job roles.
-Social Media Risks:
-
-Sharing corporate information on social media can pose security risks.
-Employees must be aware of the dangers of sharing proprietary information outside company boundaries.
-Conclusion:
-SLAs are crucial for defining cloud service performance and responsibilities, ensuring reliability and security. Effective management of SLAs, user behaviors, and access controls is vital for maintaining secure and efficient cloud environments.
 
 </details>
 
