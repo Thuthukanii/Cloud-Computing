@@ -639,4 +639,300 @@ Conclusion:
 Effective management of SaaS applications requires proactive IT involvement, collaboration with business units, and continuous monitoring to ensure security, cost-efficiency, and operational continuity.
 
 </details>
+
+<details>
+<summary> Managing External Cloud Resources </summary>
+<br>
+  
+Managing External Cloud Resources
+Overview:
+Businesses utilize various external or public cloud resources such as virtual machines, storage for backups, and databases for big data activities. These resources are fundamental for creating applications and fall under the responsibility of software developers.
+
+Key Points:
+
+Importance of Understanding Usage:
+
+Management should focus on understanding who uses cloud services.
+Cloud service management is typically handled by IT and software development organizations.
+Visibility and Control:
+
+Like SaaS applications, cloud resources must be controlled to ensure visibility into their usage.
+Management challenges include identifying suitable services, verifying their performance, security, and cost, and ensuring exclusive use of chosen services.
+Selection and Integration:
+
+Consistent use of a selected service avoids redundant costs and investments.
+Development organizations, having technical knowledge, should drive the management of these resources.
+Cycle for Approval, Use, and Reuse:
+
+Identify Requirements:
+
+Define the functional requirements of the software being developed.
+Research Cloud Resources:
+
+Look for suitable resources from existing cloud providers used by the business.
+Consider other providers if needed, supporting a multicloud approach.
+Testing:
+
+Conduct pilot tests to verify that the resources meet functional requirements.
+Form Business Relationships:
+
+If testing is successful, establish a relationship with the service vendor and access the production version of the resource.
+If unsuccessful, repeat the search or consider building the resource internally.
+Documentation:
+
+Document the new service and make it available to the full development organization.
+Regular Review:
+
+Periodically review existing resources and their requirements.
+If there are changes, revisit the resource selection process.
+Importance of Self-Service:
+
+Catalogue of Approved Resources:
+Creating a catalogue of approved computing resources is essential for consistent and predictable management.
+Ease of Use:
+The company must make it easier for employees to use the company’s catalogue rather than going to external cloud providers.
+Proactively understanding and meeting development needs ensures the catalogue remains relevant and useful.
+Conclusion:
+Managing external cloud resources effectively requires visibility, control, and a proactive approach to meet development needs. Creating a comprehensive catalogue of approved resources ensures consistent, efficient, and secure use of cloud services.
+
+</details>
+
+<details>
+<summary> Service Level Agreements (SLAs) </summary>
+<br>
+
+Service Level Agreements (SLAs)
+Overview:
+Service Level Agreements (SLAs) are contractual agreements between cloud service providers and customers, detailing the expected performance and responsibilities. SLAs cover aspects such as availability, accuracy, response time, throughput, and security, which are essential for meeting performance requirements.
+
+Key Elements of SLAs:
+
+Scope and Responsibilities:
+
+SLAs specify what the provider delivers and outline customer responsibilities.
+Providers accept responsibility in limited situations, such as service misconfiguration or direct security breaches.
+Performance Metrics:
+
+SLAs include performance claims like uptime percentages.
+Higher uptime percentages (more nines) translate to more expensive services.
+Table of Downtime Based on System Availability:
+90% (one nine): 36.53 days/year
+99% (two nines): 3.65 days/year
+99.9% (three nines): 8.77 hours/year
+99.99% (four nines): 52.6 minutes/year
+99.999% (five nines): 5.26 minutes/year
+99.9999% (six nines): 31.56 seconds/year
+Handling Ambiguities:
+
+Grey areas like natural disasters or third-party outages may not be covered.
+Providers may not be liable for lost business, often offering only service refunds during outages.
+Verification and Enforcement:
+
+Performance claims are verified by consumers and third-party auditors.
+Failure to meet SLAs can justify contract cancellation.
+Addressing Poor Cloud and Computing Behaviors:
+
+User Behaviors:
+
+Risky behaviors, like weak passwords, can compromise security.
+IT organizations must ensure robust security practices and employee education.
+Device and Access Management:
+
+Governance strategies, including role-based access control (RBAC), manage which systems employees can access.
+Companies must control data access and modification based on job roles.
+Social Media Risks:
+
+Sharing corporate information on social media can pose security risks.
+Employees must be aware of the dangers of sharing proprietary information outside company boundaries.
+Conclusion:
+SLAs are crucial for defining cloud service performance and responsibilities, ensuring reliability and security. Effective management of SLAs, user behaviors, and access controls is vital for maintaining secure and efficient cloud environments.
+
+</details>
+
+<details>
+<summary> Service Level Agreements (SLAs) </summary>
+<br>
+
+Service Level Agreements (SLAs)
+Overview:
+Service Level Agreements (SLAs) are contractual agreements between cloud service providers and customers, detailing the expected performance and responsibilities. SLAs cover aspects such as availability, accuracy, response time, throughput, and security, which are essential for meeting performance requirements.
+
+Key Elements of SLAs:
+
+Scope and Responsibilities:
+
+SLAs specify what the provider delivers and outline customer responsibilities.
+Providers accept responsibility in limited situations, such as service misconfiguration or direct security breaches.
+Performance Metrics:
+
+SLAs include performance claims like uptime percentages.
+Higher uptime percentages (more nines) translate to more expensive services.
+Table of Downtime Based on System Availability:
+90% (one nine): 36.53 days/year
+99% (two nines): 3.65 days/year
+99.9% (three nines): 8.77 hours/year
+99.99% (four nines): 52.6 minutes/year
+99.999% (five nines): 5.26 minutes/year
+99.9999% (six nines): 31.56 seconds/year
+Handling Ambiguities:
+
+Grey areas like natural disasters or third-party outages may not be covered.
+Providers may not be liable for lost business, often offering only service refunds during outages.
+Verification and Enforcement:
+
+Performance claims are verified by consumers and third-party auditors.
+Failure to meet SLAs can justify contract cancellation.
+Addressing Poor Cloud and Computing Behaviors:
+
+User Behaviors:
+
+Risky behaviors, like weak passwords, can compromise security.
+IT organizations must ensure robust security practices and employee education.
+Device and Access Management:
+
+Governance strategies, including role-based access control (RBAC), manage which systems employees can access.
+Companies must control data access and modification based on job roles.
+Social Media Risks:
+
+Sharing corporate information on social media can pose security risks.
+Employees must be aware of the dangers of sharing proprietary information outside company boundaries.
+Conclusion:
+SLAs are crucial for defining cloud service performance and responsibilities, ensuring reliability and security. Effective management of SLAs, user behaviors, and access controls is vital for maintaining secure and efficient cloud environments.
+
+</details>
+
+<details>
+<summary> Managing Internal Cloud Resources </summary>
+<br>
+
+Managing Internal Cloud Resources
+
+Overview:
+Internal cloud resource management is crucial for businesses delivering services to employees and business partners via private or hybrid clouds. These businesses act as private cloud providers and may also consume public cloud resources, becoming hybrid cloud operators.
+
+Key Points:
+
+Dual Role:
+
+Businesses might provide internal cloud services while consuming public cloud resources, creating hybrid cloud environments.
+
+Similar Issues to Public Cloud:
+
+Issues such as self-service, Service Level Agreements (SLAs), and the approval of resources are equally critical in private and hybrid clouds.
+The primary difference is the narrower scope of consumers within a single business compared to the diverse users of public cloud providers.
+
+Critical Management Aspects:
+
+Self-Service:
+
+Offering a catalogue of approved resources for internal users is essential for consistency and predictability.
+
+SLAs:
+
+SLAs must be clearly defined to ensure performance and reliability for internal cloud services.
+
+Approved Resources:
+
+It is vital to select, test, and approve resources that meet the specific needs of the business and its users.
+
+Conclusion:
+Effective management of internal cloud resources, whether in private or hybrid cloud environments, involves addressing similar challenges faced by public cloud providers, with a focus on tailored solutions for internal consumers. Ensuring robust self-service options, clear SLAs, and approved resource management are key to successful internal cloud operations.
+
+</details>
+
+<details>
+<summary> Managing a hybrid cloud environment </summary>
+<br>
+
+Leveraging Public and Private Clouds
+Overview:
+Businesses increasingly use a mix of public and private clouds, benefiting from scalability, flexibility, and performance. Public clouds now offer high security levels, but companies using private or hybrid clouds have even more stringent requirements. As cloud computing matures, the selection and security of applications and resources become more critical.
+
+Key Points:
+
+Hybrid Cloud Benefits:
+
+Combining public and private clouds offers scalability, flexibility, and performance for internal computing consumers.
+Stringent Security and Approval:
+
+Mature cloud strategies involve selecting well-vetted applications and resources with thorough security measures.
+In private or hybrid clouds, the approval process for resources is crucial to ensure they meet stringent requirements.
+Self-Service in Hybrid Clouds:
+
+Carefully curated cloud resources are ideal for self-service, pre-approved for business use with completed licensing or purchase.
+These resources are tailored to the company's needs, supporting critical in-house applications.
+A mature self-service hybrid cloud offers well-architected resources and applications as building blocks for a productive and secure data center.
+Understanding the Role of Internal SLAs:
+
+Defining Internal SLAs:
+
+Internal SLAs formalize operational requirements for services and resources, helping ensure consumer satisfaction.
+SLAs provide objective performance targets, aiding in identifying whether issues stem from applications or the underlying resources/services.
+Monitoring and Responsibility:
+
+Public cloud providers manage SLAs for their services, but response times may vary due to their broad customer base.
+In private cloud environments, IT operations are responsible for monitoring and ensuring SLA compliance.
+Companies running private clouds have a focused responsibility to ensure effective application, service, and resource performance, with executives often monitoring SLA adherence due to potential business impact.
+Conclusion:
+Effective management of hybrid and private clouds involves stringent security and thorough approval processes, particularly for self-service resources. Defining and monitoring internal SLAs is crucial for ensuring performance and reliability, with a dedicated focus on meeting the company's specific needs and maintaining operational excellence.
+
+</details>
+
+<details>
+<summary> Managing Internal Services </summary>
+<br>
+
+Managing Internal Services
+
+Overview:
+As businesses increasingly rely on cloud computing, they are creating internal services delivered through private, public, or hybrid clouds. These services cater to consumers across various divisions within a company, each with differing technical expertise levels. Regardless of the cloud context, internal consumers expect reliable, secure, and professionally supported applications.
+
+Key Points:
+
+Support for Internal Applications:
+
+Support may come from IT or a company-managed call center.
+Companies need direct access to the computing environment to diagnose and resolve problems quickly.
+
+Support for Cloud Customers:
+
+Quick and efficient help is expected for internal consumers facing issues with cloud applications.
+For third-party applications, third-party support is often required, but internal support should understand common issues.
+Internal applications require development and support teams to work closely together to provide robust support.
+
+Monitoring Resources in Hybrid Clouds:
+
+In hybrid cloud environments, public cloud resources are used to augment private cloud services.
+Ensuring these resources meet performance standards and SLAs is critical.
+
+Monitoring Strategies:
+
+Test Software in the Public Cloud:
+
+Pros: Avoids impacting application performance.
+Cons: Results may not be applicable to the application's actual performance.
+
+Test Software in the Hybrid Cloud:
+
+Pros: Results are consistent with application performance.
+Cons: Testing impacts the infrastructure’s performance.
+
+Utilize Dashboards and Operational Info:
+
+Look for available performance information from the public cloud resources.
+
+Instrument Hybrid Applications:
+
+Log the actual performance of resources as delivered to the application.
+This method is the most accurate and minimally impacts performance.
+
+Automation and Notification:
+
+Performance testing and reporting should be automated.
+Implement a notification system to alert support teams of serious failures.
+
+Conclusion:
+Effective management of internal services in a cloud context requires robust support mechanisms and close collaboration between development and support teams. Monitoring hybrid cloud resources accurately and automating performance reporting are key to maintaining reliability and security.
+
+</details> 
 </details>
