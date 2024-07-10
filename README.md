@@ -2,7 +2,7 @@
 <summary> Module 1 : Cloud Computing Fundamentals </summary>
 <br>
 <details>
-<summary> Understanding Cloud Concepts</summary>
+<summary> Chapter 1 : Understanding Cloud Concepts</summary>
 <br>
 
 <details>
@@ -328,7 +328,7 @@ In summary, the role of the data center is evolving with hybrid cloud strategies
 </details>
 
 <details>
-<summary> Embracing the Business Imperative</summary>
+<summary> Chapter 2 : Embracing the Business Imperative</summary>
 <br>
 
 <details>
