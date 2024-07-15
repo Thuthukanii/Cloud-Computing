@@ -1030,7 +1030,6 @@ Aim for consistency and predictability across all services to manage the complex
 <details>
 <summary> Chapter 5 : Standards in a Multicloud World </summary>
 <br>
-</details>
 
 <details>
 <summary> What are Standards </summary>
@@ -1238,6 +1237,5 @@ Optimize Costs: By preventing vendor lock-in and simplifying integration, leadin
 
 Cloud standards play a crucial role in ensuring that organizations can effectively and securely manage their cloud resources across multiple environments. They provide the necessary framework to enhance flexibility, prevent vendor lock-in, and simplify integration, ultimately leading to improved efficiency and reduced costs in a multicloud model.
 
-</details>
 </details>
 </details>
