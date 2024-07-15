@@ -465,7 +465,7 @@ Significant changes to a business model are challenging but worthwhile for reinv
 </details>
 
 <details>
-<summary> Architectural Consideration for the Cloud Environment </summary>
+<summary> Chapter 3 : Architectural Consideration for the Cloud Environment </summary>
 <br>
 
 <details>
@@ -576,7 +576,7 @@ By focusing on these principles, organizations can better manage the dynamic lif
 </details>
 
 <details>
-<summary> Managing a Hybrid and Multicloud Environment </summary>
+<summary> Chapter 4 : Managing a Hybrid and Multicloud Environment </summary>
 <br>
 
 <details>
@@ -1028,7 +1028,7 @@ Aim for consistency and predictability across all services to manage the complex
 </details>
 
 <details>
-<summary> Standards in a Multicloud World </summary>
+<summary> Chapter 5 : Standards in a Multicloud World </summary>
 <br>
 </details>
 
