@@ -1239,12 +1239,12 @@ Cloud standards play a crucial role in ensuring that organizations can effective
 
 </details>
 </details>
-
+</details>
 <details>
 <summary> Module 2 : Microsoft Azure </summary>
 <br>
 
-<summary> What is Microsoft Azure? </summary>
+<summary> Chapter 1 : What is Microsoft Azure? </summary>
 <br>
 
 Microsoft Azure, originally known as Windows Azure, is Microsoft’s cloud computing platform. It was initially built on Windows Server 2008 and targeted developers wanting to host their applications in a cloud environment similar to Windows.
@@ -1301,7 +1301,7 @@ Microsoft Azure’s extensive services, global reach, and flexible pricing make 
 </details>
 
 <details>
-<summary> Azure Portal </summary>
+<summary> Chapter 2 : Azure Portal </summary>
 <br>
 
 The Azure Portal is the self-managed portal for Microsoft Azure, accessible via web browsers or the Azure Mobile App. It serves as the primary interface for managing Azure cloud services and resources.
@@ -1361,7 +1361,7 @@ The Azure Portal and its mobile app offer robust tools for managing a wide array
 </details>
 
 <details>
-<summary> Microsoft Azure Services </summary>
+<summary> Chapter 3 : Microsoft Azure Services </summary>
 <br>
 
 Microsoft Azure services are organized into 21 categories, each designed to address specific technical needs and integrate seamlessly with other services. Here's an overview of some key categories and their associated services:
