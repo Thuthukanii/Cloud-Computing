@@ -1419,5 +1419,26 @@ These services are designed to protect resources, data, and identity in the clou
 Services: Azure Active Directory, Azure AD B2C, Azure Defender, Azure Security Center, Azure Key Vault, Azure Sentinel, Information Protection, DDoS Protection, etc.
   
 </details>
+
+<details>
+<summary> Network Services in Azure </summary>
+<br>
+
+Networking in the cloud is important in all aspects of cloud hosting. Networking services help secure both private and public cloud infrastructure. Users can customize their cloud networking setup and manage their network resources on demand.
+
+Azure Networking services allow Azure users to meet the demands of their infrastructure’s workloads on-premises, hybrid, or on the cloud with high availability and enterprise-level Microsoft Zero Trust based security on networking services.
+
+![Capture](https://github.com/user-attachments/assets/b0a832d5-7327-4e07-b32b-279e9fe43463)
+  
+</details>
+
+<details>
+<summary> Azure Storage Services </summary>
+<br>
+
+![Capture2](https://github.com/user-attachments/assets/38646f21-fa19-40e0-8622-69a0a0a371e9)
+![Capture3](https://github.com/user-attachments/assets/d12f7b2e-96ed-4961-a354-b8a3efdb504d)
+![Capture4](https://github.com/user-attachments/assets/a71a76ed-d30b-4e02-9f4a-acb49db32c95)
+
 </details>
 </details>
