@@ -1240,10 +1240,12 @@ Cloud standards play a crucial role in ensuring that organizations can effective
 </details>
 </details>
 </details>
+
 <details>
 <summary> Module 2 : Microsoft Azure </summary>
 <br>
 
+<details>
 <summary> Chapter 1 : What is Microsoft Azure? </summary>
 <br>
 
@@ -1416,5 +1418,6 @@ These services are designed to protect resources, data, and identity in the clou
 
 Services: Azure Active Directory, Azure AD B2C, Azure Defender, Azure Security Center, Azure Key Vault, Azure Sentinel, Information Protection, DDoS Protection, etc.
   
+</details>
 </details>
 </details>
