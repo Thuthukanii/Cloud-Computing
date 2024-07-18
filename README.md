@@ -1239,3 +1239,182 @@ Cloud standards play a crucial role in ensuring that organizations can effective
 
 </details>
 </details>
+
+<details>
+<summary> Module 2 : Microsoft Azure </summary>
+<br>
+
+<summary> What is Microsoft Azure? </summary>
+<br>
+
+Microsoft Azure, originally known as Windows Azure, is Microsoft’s cloud computing platform. It was initially built on Windows Server 2008 and targeted developers wanting to host their applications in a cloud environment similar to Windows.
+
+**Evolution and Renaming**
+
+Launched as Windows Azure, it became commercially available as Microsoft’s core cloud platform.
+Renamed to Microsoft Azure in 2014.
+Initially developed under the code name "Red Dog."
+
+**Capabilities and Flexibility**
+
+Azure allows for the creation, deployment, and management of applications on a global scale.
+It's a public cloud provider but also offers private, hybrid, and multi-cloud solutions.
+Used by 95% of Fortune 500 companies due to its extensive and versatile offerings.
+Cost Efficiency
+
+Minimizes upfront costs for organizations by eliminating the need for large capital expenditures.
+Provides a consumption-based pricing model, allowing users to pay only for what they use.
+Service Offerings
+
+Offers over 200 services across various categories: computing, networking, storage, databases, analytics, AI, IoT, and more.
+Continuously introduces new features and services.
+Benefits
+
+High Availability: 99.95% service-level agreement for availability.
+
+Geo-distribution: Enables compliance with regional regulations.
+
+Scalability On-demand: Adapts to varying demands for resources.
+
+Reliability: Ensures system functionality amidst faults or errors.
+
+Elasticity: Automatically scales resources based on demand.
+
+Disaster Recovery: Offers secure backup and recovery solutions.
+
+Flexibility: Allows self-service management and diverse pricing plans.
+
+Cost Management Tools: Provides tools and alerts for managing costs.
+
+Advanced Compliance: Maintains high standards for security and compliance.
+
+High Level Cloud Security: Protects data with advanced encryption and security measures.
+
+**Operational vs. Capital Expenditures**
+
+Azure helps organizations transition from capital expenditures (CapEx) to operational expenditures (OpEx), offering a more flexible and cost-effective model.
+Ease of Use
+
+Designed to be user-friendly, requiring no deep technical skills to get started.
+Microsoft Azure’s extensive services, global reach, and flexible pricing make it a leading choice for enterprises looking to leverage cloud computing for various applications and needs.
+
+</details>
+
+<details>
+<summary> Azure Portal </summary>
+<br>
+
+The Azure Portal is the self-managed portal for Microsoft Azure, accessible via web browsers or the Azure Mobile App. It serves as the primary interface for managing Azure cloud services and resources.
+
+**Features and Capabilities**
+
+Web-Based Administration: Allows users to manage resource groups, resources, Azure subscriptions, security, monitoring, and more.
+
+Access Points: Available through web browsers at https://portal.azure.com and the Azure Mobile App, which can be downloaded via the provided instructions.
+
+Resilient and Portable: Built to be accessible from anywhere, ensuring continuous management capabilities.
+
+**Specific URLs for Different Regions and Sectors**
+
+Commercial Use or Azure Public Cloud: https://portal.azure.com
+Azure United States Government Cloud: https://portal.azure.us
+Azure Germany: https://portal.microsoftazure.de
+Azure China: https://portal.azure.cn
+
+**Azure Mobile App**
+
+Provides the ability to manage Azure subscriptions and services on the go.
+The app's user interface is designed for mobile devices, offering a streamlined experience for on-the-go administration.
+
+**Microsoft Cloud for Sovereignty**
+
+A specialized solution for government and public sector users.
+Addresses specific compliance, security, and policy requirements.
+Enhances control over data, privacy, compliance, and governance for these sectors.
+
+**Azure Portal Features**
+
+Unified Management: Create, build, manage, and monitor Azure services and cloud resources from one place at any time.
+
+Command Line Tools and Cloud Shell: Enable quick creation and deployments.
+
+Subscription Management: Organize Azure subscriptions and create management groups to structure and govern resources.
+
+Azure Active Directory (Azure AD): Manage identity, access, and permissions.
+
+Governance: Configure and manage privacy, data, security, policies, and compliance.
+
+Customizable Dashboards: Get a quick overview of resource status upon login.
+
+Cost Management: Monitor resources through spending limits and budget alerts.
+
+Global Search: Find and manage resources efficiently.
+
+Support Requests: Send support requests directly from the portal.
+
+**Azure Marketplace**
+
+A marketplace for Azure customers to search, purchase, and try out applications and services from other providers, including Microsoft partners.
+All services are verified and certified to work with the Azure cloud platform.
+The Azure Portal and its mobile app offer robust tools for managing a wide array of Azure services, ensuring flexibility and accessibility for users worldwide.
+  
+</details>
+
+<details>
+<summary> Microsoft Azure Services </summary>
+<br>
+
+Microsoft Azure services are organized into 21 categories, each designed to address specific technical needs and integrate seamlessly with other services. Here's an overview of some key categories and their associated services:
+
+**Artificial Intelligence (AI) + Machine Learning (ML)**
+These services enable the development of modern cloud applications with machine learning and cognitive integration.
+
+Services: Azure Bot Service, Azure Cognitive Services, Azure Machine Learning, Anomaly Detector, Azure Databricks, Computer Vision, Face API, Azure Immersive Reader, Azure Form Recognizer, Kinect DK, Microsoft Genomics, Azure Health Bot, Azure Applied AI Services, Azure Percept, Speech Services, etc.
+
+**Analytics**
+These services allow for the collection and visualization of data regardless of its volume or velocity.
+
+Services: Azure Analysis Services, Azure Data Explorer, Azure Data Lake Storage, Azure Data Share, Azure Databricks, Azure Stream Analytics, HDInsight, PowerBI Embedded, Azure Synapse Analytics, Data Factory, Event Hubs, R Server for HDInsight, Microsoft Graph Data Connect, Azure Purview, etc.
+
+**Compute**
+These services support the creation of robust applications with high-level cloud computing capabilities and scalability.
+
+Services: API Apps, App Service, Azure CycleCloud, Azure Functions, Azure Kubernetes Service (AKS), Azure Quantum Preview, Azure Spot Virtual Machines, Azure Spring Cloud, Azure VMware Solution, Azure Batch, Cloud Services, Linux Virtual Machines, Azure Container Instances, Azure Static Web Apps, VM Scale Sets, Azure Virtual Machines, Azure Virtual Desktop, Web Apps, Azure Dedicated Host, Azure VM Image Builder, etc.
+
+**Containers**
+Services in this category are for developing, managing, and orchestrating containerized applications.
+
+Services: Azure Kubernetes Services (AKS), Azure Container Instances, Azure Container Registry, Azure Service Fabric, Web App for Containers
+
+**Databases**
+These are fully managed and secure cloud database services.
+
+Services: Azure SQL Database, Azure Cosmos DB, Azure Cache for Redis, Azure Database for PostgreSQL, Azure Database for MySQL, Apache Cassandra MI, SQL Server on Virtual Machines, Azure Database Migration Service, Table Storage, Azure API for FHIR, Azure SQL Database Edge, etc.
+
+**Developer Tools**
+These services and tools are for developers working on cloud development and DevOps.
+
+Services: Azure DevOps, Azure DevTest Labs, App Configuration, Azure SDKs, Azure Lab Services, Azure Pipelines, Visual Studio, Visual Studio Code
+
+**Integration**
+This category includes services for integrating within Azure, hybrid, or multi-cloud environments.
+
+Services: API Management, Azure Event Grid, Azure Service Bus, Azure Logic Apps, Azure Web PubSub Preview, Azure Healthcare APIs Preview
+
+**Networking**
+These services connect cloud and on-premises infrastructure and resources.
+
+Services: Application Gateway, Azure Bastion, Azure DNS, Azure ExpressRoute, Azure Content Delivery Network, Load Balancer, Azure Front Door, Azure Firewall, Internet Analyzer, Azure Orbital, Private Link, VPN Gateway, Virtual WAN, Virtual Network, Traffic Manager
+
+**Internet of Things (IoT)**
+These services support the creation of cloud solutions with IoT capabilities.
+
+Services: Azure IoT Hub, Azure IoT Central, Azure Sphere, Azure IoT Edge, Azure RTOS
+
+**Identity + Security**
+These services are designed to protect resources, data, and identity in the cloud.
+
+Services: Azure Active Directory, Azure AD B2C, Azure Defender, Azure Security Center, Azure Key Vault, Azure Sentinel, Information Protection, DDoS Protection, etc.
+  
+</details>
+</details>
