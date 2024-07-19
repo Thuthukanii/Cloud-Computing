@@ -1417,8 +1417,7 @@ Services: Azure IoT Hub, Azure IoT Central, Azure Sphere, Azure IoT Edge, Azure 
 These services are designed to protect resources, data, and identity in the cloud.
 
 Services: Azure Active Directory, Azure AD B2C, Azure Defender, Azure Security Center, Azure Key Vault, Azure Sentinel, Information Protection, DDoS Protection, etc.
-  
-</details>
+
 
 <details>
 <summary> Network Services in Azure </summary>
