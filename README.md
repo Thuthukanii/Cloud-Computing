@@ -1365,7 +1365,6 @@ The Azure Portal and its mobile app offer robust tools for managing a wide array
 <details>
 <summary> Chapter 3 : Microsoft Azure Services </summary>
 <br>
-</details>
 
 Microsoft Azure services are organized into 21 categories, each designed to address specific technical needs and integrate seamlessly with other services. Here's an overview of some key categories and their associated services:
 
